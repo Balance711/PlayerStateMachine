@@ -1,0 +1,55 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,description_json,Archer_Idle_json,Archer_Idle_png,Archer_Move_json,Archer_Move_png,gif_json,gif_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/bg.jpg",
+			"type": "image",
+			"name": "bg_jpg"
+		},
+		{
+			"url": "assets/egret_icon.png",
+			"type": "image",
+			"name": "egret_icon_png"
+		},
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"name": "Archer_Idle_json",
+			"type": "json",
+			"url": "assets/Archer_Idle.json"
+		},
+		{
+			"name": "Archer_Idle_png",
+			"type": "image",
+			"url": "assets/Archer_Idle.png"
+		},
+		{
+			"name": "Archer_Move_json",
+			"type": "json",
+			"url": "assets/Archer_Move.json"
+		},
+		{
+			"name": "Archer_Move_png",
+			"type": "image",
+			"url": "assets/Archer_Move.png"
+		},
+		{
+			"name": "gif_json",
+			"type": "json",
+			"url": "assets/gif.json"
+		},
+		{
+			"name": "gif_png",
+			"type": "image",
+			"url": "assets/gif.png"
+		}
+	]
+}
